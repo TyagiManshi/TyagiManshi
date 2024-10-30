@@ -1,3 +1,5 @@
+![logo](https://github.com/TyagiManshi/TyagiManshi/blob/main/GithubBanner.png)
+
 <h1 align="center">Hi 👋, I'm Manshi Tyagi</h1>
 <h3 align="center">A passionate frontend developer from India</h3> <br>
 <img align="right" width="300" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" alt="coding">
