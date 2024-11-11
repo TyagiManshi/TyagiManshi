@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning *React*
   
 - 👨‍💻 All of my projects are available at [https://tyagimanshi.github.io/My-Portfolio/](https://tyagimanshi.github.io/My-Portfolio/)
 
-- 📫 How to reach me **manshityagi1919@gmail.com**
+- 📫 How to reach me *manshityagi1919@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1l4XedV4tMNFPAoi8jZwpvIjoGpZfagHV/view?usp=sharing](https://drive.google.com/file/d/1l4XedV4tMNFPAoi8jZwpvIjoGpZfagHV/view?usp=sharing)
 
@@ -32,17 +32,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyagimanshi&show_icons=true&locale=en" alt="tyagimanshi" /></p> <br>
 
 - ## Education 🎓
-- **Pursuing BTech in Computer Science Engineering**  
+- *Pursuing BTech in Computer Science Engineering*  
   COER University, Roorkee Uttarakhand <br>
   CGPA: 9.43% (2023-2027)
-- **Senior Secondary**  
+- *Senior Secondary*  
   St. Mary's School, Saharanpur  <br>
   Board: CBSE, Percentage: 85.40% (2022-2023)
-- **Matriculation**  
+- *Matriculation*  
   St. Mary's School, Saharanpur <br>
   Board: CBSE, Percentage: 80% (2020-2021)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyagimanshi&" alt="tyagimanshi" /></p>
-
-
-  
