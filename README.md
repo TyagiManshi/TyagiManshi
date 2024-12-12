@@ -101,7 +101,8 @@
 ###
 
 <br clear="both">
+![Snake animation](https://github.com/TyagiManshi/TyagiManshi/raw/output/snake.svg)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
