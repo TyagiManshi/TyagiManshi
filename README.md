@@ -100,8 +100,8 @@
 
 ###
 
-<br clear="both">
 ![Snake animation](https://github.com/TyagiManshi/TyagiManshi/raw/output/snake.svg)
+
 
 
 
