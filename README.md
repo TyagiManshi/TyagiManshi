@@ -44,7 +44,10 @@
   St. Mary's School, Saharanpur <br>
   Board: CBSE, Percentage: 80% (2020-2021)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyagimanshi&" alt="tyagimanshi" /></p>
+---
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyagimanshi&" alt="vishal1711tomar" /></p>
+
 
 ###
 
