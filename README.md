@@ -46,7 +46,7 @@
 
 ---
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyagimanshi&" alt="vishal1711tomar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyagimanshi&" /></p>
 
 
 ###
