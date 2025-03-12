@@ -1,7 +1,7 @@
 ![logo](https://github.com/TyagiManshi/TyagiManshi/blob/main/GithubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Manshi Tyagi</h1>
-<h3 align="center">A passionate frontend developer from India</h3> 
+<h3 align="center">A Passionate Frontend Developer from India</h3> 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quote">
 </p>
@@ -45,7 +45,7 @@
 ## Education 🎓  
 - **Pursuing BTech in Computer Science Engineering**  
   COER University, Roorkee Uttarakhand  
-  **CGPA:** 9.43% (2023-2027)  
+  **CGPA:** 9.59% (2023-2027)  
 - **Senior Secondary**  
   St. Mary's School, Saharanpur  
   **Board:** CBSE, **Percentage:** 85.40% (2022-2023)  
