@@ -27,8 +27,8 @@
 <a href="https://linkedin.com/in/manshi--tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manshi--tyagi" height="30" width="40" /></a>
 <a href="https://instagram.com/manshity_2225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manshity_2225" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manshityagi2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manshityagi2024" height="30" width="40" /></a>
-<a href="https://hashnode.com/@manshiwrites" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=QhH7eeARogGx&format=png&color=000000" alt="@manshiwrites" height="30" width="40" /></a>
-<a href="https://discord.gg/manshi_80799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="manshi_80799" height="30" width="40" /></a>
+<a href="https://hashnode.com/@manshiwrites" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=HnB8zGOh5xgd&format=png" alt="@manshiwrites" height="40" width="40" /></a>
+<a href="https://discord.gg/manshi_80799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="manshi_80799" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,34 +38,32 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyagimanshi&show_icons=true&locale=en&layout=compact" alt="tyagimanshi" /></p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyagimanshi&show_icons=true&locale=en" alt="tyagimanshi" /></p> <br>
+## Education 🎓  
+- **Pursuing BTech in Computer Science Engineering**  
+  COER University, Roorkee Uttarakhand  
+  **CGPA:** 9.43% (2023-2027)  
+- **Senior Secondary**  
+  St. Mary's School, Saharanpur  
+  **Board:** CBSE, **Percentage:** 85.40% (2022-2023)  
+- **Matriculation**  
+  St. Mary's School, Saharanpur  
+  **Board:** CBSE, **Percentage:** 80% (2020-2021)  
 
----
+</td>
+    <td valign="top" width="50%" align="right">
 
-# Education 🎓
-- Pursuing BTech in Computer Science Engineering  
-  COER University, Roorkee Uttarakhand <br>
-  CGPA: 9.43% (2023-2027)
-- Senior Secondary  
-  St. Mary's School, Saharanpur  <br>
-  Board: CBSE, Percentage: 85.40% (2022-2023)
-- Matriculation  
-  St. Mary's School, Saharanpur <br>
-  Board: CBSE, Percentage: 80% (2020-2021)
+## GitHub Stats 📊 
+<img src="https://github-readme-stats.vercel.app/api?username=TyagiManshi&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false"><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=TyagiManshi&theme=github_dark_dimmed&hide_border=false"><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyagiManshi&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
----
+</td>
+  </tr>
+</table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TyagiManshi&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TyagiManshi&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TyagiManshi&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-###
 
 ![Snake animation](https://github.com/TyagiManshi/TyagiManshi/raw/output/snake.svg)
-
-###
