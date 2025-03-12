@@ -10,8 +10,7 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TyagiManshi&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=tyagimanshi&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 - 🌱 I’m currently learning Node.js
   
