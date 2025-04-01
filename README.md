@@ -18,7 +18,7 @@
 
 - 📫 How to reach me manshityagi1919@gmail.com
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1l4XedV4tMNFPAoi8jZwpvIjoGpZfagHV/view?usp=sharing)
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1l4XedV4tMNFPAoi8jZwpvIjoGpZfagHV/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
