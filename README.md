@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/manshi--tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manshi--tyagi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manshityagi2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manshityagi2024" height="30" width="40" /></a>
 <a href="https://hashnode.com/@manshiwrites" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=HnB8zGOh5xgd&format=png" alt="@manshiwrites" height="40" width="40" /></a>
-<a href="discordapp.com/users/@manshi_80799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="manshi_80799" height="40" width="40" /></a>
+<a href="https://discord.com/channels/@manshi_80799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="manshi_80799" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
