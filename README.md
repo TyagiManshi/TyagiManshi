@@ -36,10 +36,6 @@
 </p>
 
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
 ## Education 🎓  
 - **Pursuing BTech in Computer Science Engineering**  
   COER University, Roorkee Uttarakhand  
@@ -51,17 +47,12 @@
   St. Mary's School, Saharanpur  
   **Board:** CBSE, **Percentage:** 80% (2020-2021)  
 
-</td>
-    <td valign="top" width="50%" align="right">
 
 ## GitHub Stats 📊 
 <img src="https://github-readme-stats.vercel.app/api?username=TyagiManshi&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false"><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=TyagiManshi&theme=github_dark_dimmed&hide_border=false"><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyagiManshi&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
-</td>
-  </tr>
-</table>
 
 
 ![Snake animation](https://github.com/TyagiManshi/TyagiManshi/raw/output/snake.svg)
