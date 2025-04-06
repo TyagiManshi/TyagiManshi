@@ -1,16 +1,17 @@
-![logo](https://github.com/TyagiManshi/TyagiManshi/blob/main/GithubBanner.png)
+<!-- ![logo](https://github.com/TyagiManshi/TyagiManshi/blob/main/GithubBanner.png) -->
 
-<h1 align="center">Hi 👋, I'm Manshi Tyagi</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3> 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1200" height="400">
+
+<h1 align="center">Hey there! 👋 I'm Manshi</h1>
+
+**A passionate and fast-learning web developer in the making, actively exploring the world of full-stack development. I’m currently pursuing my B.Tech and building a strong foundation in both frontend and backend development. I'm continuously growing my skills by working on real-world projects and am committed to sharpening them every day to become industry-ready.**
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quote">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyagimanshi&label=Profile%20views&color=0e75b6&style=flat" alt="tyagimanshi" /> </p>
 <img align="right" width="300" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" alt="coding">
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tyagimanshi&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 - 🌱 I’m currently learning Node.js
   
