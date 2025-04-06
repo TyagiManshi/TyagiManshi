@@ -1,6 +1,6 @@
 <!-- ![logo](https://github.com/TyagiManshi/TyagiManshi/blob/main/GithubBanner.png) -->
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1200" height="400">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="900" height="400">
 
 <h1 align="center">Hey there! 👋 I'm Manshi</h1>
 
@@ -47,9 +47,14 @@
   <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=00AB1A" alt="nodejs" width="40" height="40"/>
 </p>
 
-&nbsp;
+<br>
 
-### Education 🎓  
+<img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
+<p align="left">
+  
+<h2> Education 🎓  </h2> 
+
 - **Pursuing BTech in Computer Science Engineering**  
   COER University, Roorkee Uttarakhand  
   **CGPA:** 9.59% (2023-2027)  
@@ -60,15 +65,21 @@
   St. Mary's School, Saharanpur  
   **Board:** CBSE, **Percentage:** 80% (2020-2021)  
 
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</p>
 
-  <br> 
+<br>
+<br>
+
+<div align="center">
   
-### GitHub Stats 📊
+<h1> GitHub Stats 📊 </h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TyagiManshi&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false"><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=TyagiManshi&theme=github_dark_dimmed&hide_border=false"><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyagiManshi&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=TyagiManshi&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false">
+<img src="https://nirzak-streak-stats.vercel.app/?user=TyagiManshi&theme=github_dark_dimmed&hide_border=false">
+
+</div>
 
 
 ![Snake animation](https://github.com/TyagiManshi/TyagiManshi/raw/output/snake.svg)
