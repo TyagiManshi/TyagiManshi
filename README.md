@@ -10,7 +10,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quote">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyagimanshi&label=Profile%20views&color=0e75b6&style=flat" alt="tyagimanshi" /> </p>
-<img align="right" width="300" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" alt="coding">
+
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" height="300">
 
 
 - 🌱 I’m currently learning Node.js
@@ -31,13 +32,24 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=060606" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=00AB1A" alt="nodejs" width="40" height="40"/> </a>
+<p align="left"> 
+  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" alt="tailwind" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>  &nbsp;
+  <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" width="40" height="40" alt="Github"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=060606" alt="express" width="40" height="40"/>  
+  <img src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" alt="mongodb" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=00AB1A" alt="nodejs" width="40" height="40"/>
 </p>
 
+&nbsp;
 
-## Education 🎓  
+### Education 🎓  
 - **Pursuing BTech in Computer Science Engineering**  
   COER University, Roorkee Uttarakhand  
   **CGPA:** 9.59% (2023-2027)  
@@ -48,12 +60,15 @@
   St. Mary's School, Saharanpur  
   **Board:** CBSE, **Percentage:** 80% (2020-2021)  
 
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
-## GitHub Stats 📊 
+  <br> 
+  
+### GitHub Stats 📊
+
 <img src="https://github-readme-stats.vercel.app/api?username=TyagiManshi&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false"><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=TyagiManshi&theme=github_dark_dimmed&hide_border=false"><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyagiManshi&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-
 
 
 ![Snake animation](https://github.com/TyagiManshi/TyagiManshi/raw/output/snake.svg)
