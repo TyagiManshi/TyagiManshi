@@ -1,6 +1,6 @@
 <!-- ![logo](https://github.com/TyagiManshi/TyagiManshi/blob/main/GithubBanner.png) -->
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="900" height="400">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="900" height="300">
 
 <h1 align="center">Hey there! 👋 I'm Manshi</h1>
 
