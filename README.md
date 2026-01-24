@@ -55,9 +55,9 @@
   
 <h2> Education 🎓  </h2> 
 
-- **Pursuing BTech in Computer Science Engineering**  
+- **Persuing BTech in Computer Science Engineering**  
   COER University, Roorkee Uttarakhand  
-  **CGPA:** 9.59% (2023-2027)  
+  **CGPA:** 9.54% (2023-2027)  
 - **Senior Secondary**  
   St. Mary's School, Saharanpur  
   **Board:** CBSE, **Percentage:** 85.40% (2022-2023)  
